@@ -6,6 +6,7 @@ Outil de conversion des données au format CSV en JSON
 Bonjour et bienvenu sur mon ébauche modeste d'un script permettant de transformer un fichier CSV en JSON.
 
 ## Structure programme
+
 ├── Gemfile
 ├── Gemfile.lock
 ├── README.md
