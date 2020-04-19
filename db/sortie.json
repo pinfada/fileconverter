@@ -1,0 +1,1602 @@
+[
+  [
+    {
+      "date": "2018-01-04T00:00:00+00:00"
+    },
+    {
+      "code_libell": 57219316
+    },
+    {
+      "libell": "ANANAS standard (hors Victoria)"
+    },
+    {
+      "mini": 1
+    },
+    {
+      "maxi": 19
+    },
+    {
+      "moyen": 2
+    },
+    {
+      "unit_prix": 15
+    },
+    {
+      "": 1
+    },
+    {
+      "": 64
+    },
+    {
+      "": "la pièce"
+    }
+  ],
+  [
+    {
+      "date": "2018-01-04T00:00:00+00:00"
+    },
+    {
+      "code_libell": 57219214
+    },
+    {
+      "libell": "BANANE Afrique vrac"
+    },
+    {
+      "mini": null
+    },
+    {
+      "maxi": null
+    },
+    {
+      "moyen": 1
+    },
+    {
+      "unit_prix": 34
+    },
+    {
+      "": "le kg"
+    },
+    {
+      "": null
+    },
+    {
+      "": null
+    }
+  ],
+  [
+    {
+      "date": "2018-01-04T00:00:00+00:00"
+    },
+    {
+      "code_libell": 57219236
+    },
+    {
+      "libell": "BANANE Amérique vrac"
+    },
+    {
+      "mini": null
+    },
+    {
+      "maxi": null
+    },
+    {
+      "moyen": 1
+    },
+    {
+      "unit_prix": 4
+    },
+    {
+      "": "le kg"
+    },
+    {
+      "": null
+    },
+    {
+      "": null
+    }
+  ],
+  [
+    {
+      "date": "2018-01-04T00:00:00+00:00"
+    },
+    {
+      "code_libell": 57219375
+    },
+    {
+      "libell": "BANANE biologique"
+    },
+    {
+      "mini": null
+    },
+    {
+      "maxi": null
+    },
+    {
+      "moyen": 1
+    },
+    {
+      "unit_prix": 99
+    },
+    {
+      "": "le kg"
+    },
+    {
+      "": null
+    },
+    {
+      "": null
+    }
+  ],
+  [
+    {
+      "date": "2018-01-04T00:00:00+00:00"
+    },
+    {
+      "code_libell": 57219361
+    },
+    {
+      "libell": "CLÉMENTINE hors Fr. vrac"
+    },
+    {
+      "mini": null
+    },
+    {
+      "maxi": null
+    },
+    {
+      "moyen": 2
+    },
+    {
+      "unit_prix": 4
+    },
+    {
+      "": "le kg"
+    },
+    {
+      "": null
+    },
+    {
+      "": null
+    }
+  ],
+  [
+    {
+      "date": "2018-01-04T00:00:00+00:00"
+    },
+    {
+      "code_libell": 57219319
+    },
+    {
+      "libell": "KIWI France cdt 1kg"
+    },
+    {
+      "mini": null
+    },
+    {
+      "maxi": null
+    },
+    {
+      "moyen": 2
+    },
+    {
+      "unit_prix": 75
+    },
+    {
+      "": "le kg"
+    },
+    {
+      "": null
+    },
+    {
+      "": null
+    }
+  ],
+  [
+    {
+      "date": "2018-01-04T00:00:00+00:00"
+    },
+    {
+      "code_libell": 57222318
+    },
+    {
+      "libell": "KIWI France vrac"
+    },
+    {
+      "mini": 0
+    },
+    {
+      "maxi": 45
+    },
+    {
+      "moyen": 0
+    },
+    {
+      "unit_prix": 59
+    },
+    {
+      "": 0
+    },
+    {
+      "": 5
+    },
+    {
+      "": "la pièce"
+    }
+  ],
+  [
+    {
+      "date": "2018-01-04T00:00:00+00:00"
+    },
+    {
+      "code_libell": 57219321
+    },
+    {
+      "libell": "KIWI UE (hors Fr.) cdt 1kg"
+    },
+    {
+      "mini": null
+    },
+    {
+      "maxi": null
+    },
+    {
+      "moyen": 2
+    },
+    {
+      "unit_prix": 77
+    },
+    {
+      "": "le kg"
+    },
+    {
+      "": null
+    },
+    {
+      "": null
+    }
+  ],
+  [
+    {
+      "date": "2018-01-04T00:00:00+00:00"
+    },
+    {
+      "code_libell": 57219322
+    },
+    {
+      "libell": "LITCHI vrac"
+    },
+    {
+      "mini": null
+    },
+    {
+      "maxi": null
+    },
+    {
+      "moyen": 3
+    },
+    {
+      "unit_prix": 7
+    },
+    {
+      "": "le kg"
+    },
+    {
+      "": null
+    },
+    {
+      "": null
+    }
+  ],
+  [
+    {
+      "date": "2018-01-04T00:00:00+00:00"
+    },
+    {
+      "code_libell": 57219323
+    },
+    {
+      "libell": "MANGUE vrac"
+    },
+    {
+      "mini": 0
+    },
+    {
+      "maxi": 99
+    },
+    {
+      "moyen": 1
+    },
+    {
+      "unit_prix": 99
+    },
+    {
+      "": 1
+    },
+    {
+      "": 61
+    },
+    {
+      "": "la pièce"
+    }
+  ],
+  [
+    {
+      "date": "2018-01-04T00:00:00+00:00"
+    },
+    {
+      "code_libell": 57222876
+    },
+    {
+      "libell": "MARRON CHATAIGNE France vrac"
+    },
+    {
+      "mini": null
+    },
+    {
+      "maxi": null
+    },
+    {
+      "moyen": 7
+    },
+    {
+      "unit_prix": 88
+    },
+    {
+      "": "le kg"
+    },
+    {
+      "": null
+    },
+    {
+      "": null
+    }
+  ],
+  [
+    {
+      "date": "2018-01-04T00:00:00+00:00"
+    },
+    {
+      "code_libell": 57219360
+    },
+    {
+      "libell": "NOIX AOP Grenoble sac 1kg"
+    },
+    {
+      "mini": null
+    },
+    {
+      "maxi": null
+    },
+    {
+      "moyen": 5
+    },
+    {
+      "unit_prix": 89
+    },
+    {
+      "": "le kg"
+    },
+    {
+      "": null
+    },
+    {
+      "": null
+    }
+  ],
+  [
+    {
+      "date": "2018-01-04T00:00:00+00:00"
+    },
+    {
+      "code_libell": 57223741
+    },
+    {
+      "libell": "NOIX AOP Grenoble vrac"
+    },
+    {
+      "mini": null
+    },
+    {
+      "maxi": null
+    },
+    {
+      "moyen": 5
+    },
+    {
+      "unit_prix": 75
+    },
+    {
+      "": "le kg"
+    },
+    {
+      "": null
+    },
+    {
+      "": null
+    }
+  ],
+  [
+    {
+      "date": "2018-01-04T00:00:00+00:00"
+    },
+    {
+      "code_libell": 57223725
+    },
+    {
+      "libell": "NOIX sans label France sachet 500g"
+    },
+    {
+      "mini": null
+    },
+    {
+      "maxi": null
+    },
+    {
+      "moyen": 6
+    },
+    {
+      "unit_prix": 4
+    },
+    {
+      "": "le kg"
+    },
+    {
+      "": null
+    },
+    {
+      "": null
+    }
+  ],
+  [
+    {
+      "date": "2018-01-04T00:00:00+00:00"
+    },
+    {
+      "code_libell": 57221274
+    },
+    {
+      "libell": "NOIX sans label France vrac"
+    },
+    {
+      "mini": null
+    },
+    {
+      "maxi": null
+    },
+    {
+      "moyen": 6
+    },
+    {
+      "unit_prix": 12
+    },
+    {
+      "": "le kg"
+    },
+    {
+      "": null
+    },
+    {
+      "": null
+    }
+  ],
+  [
+    {
+      "date": "2018-01-04T00:00:00+00:00"
+    },
+    {
+      "code_libell": 57219324
+    },
+    {
+      "libell": "ORANGE vrac"
+    },
+    {
+      "mini": 1
+    },
+    {
+      "maxi": 49
+    },
+    {
+      "moyen": 1
+    },
+    {
+      "unit_prix": 99
+    },
+    {
+      "": 1
+    },
+    {
+      "": 79
+    },
+    {
+      "": "le kg"
+    }
+  ],
+  [
+    {
+      "date": "2018-01-04T00:00:00+00:00"
+    },
+    {
+      "code_libell": 57219325
+    },
+    {
+      "libell": "POIRE Abate Fétel hors Fr. vrac"
+    },
+    {
+      "mini": null
+    },
+    {
+      "maxi": null
+    },
+    {
+      "moyen": 2
+    },
+    {
+      "unit_prix": 52
+    },
+    {
+      "": "le kg"
+    },
+    {
+      "": null
+    },
+    {
+      "": null
+    }
+  ],
+  [
+    {
+      "date": "2018-01-04T00:00:00+00:00"
+    },
+    {
+      "code_libell": 57219329
+    },
+    {
+      "libell": "POIRE Conférence hors Fr. vrac"
+    },
+    {
+      "mini": null
+    },
+    {
+      "maxi": null
+    },
+    {
+      "moyen": 2
+    },
+    {
+      "unit_prix": 51
+    },
+    {
+      "": "le kg"
+    },
+    {
+      "": null
+    },
+    {
+      "": null
+    }
+  ],
+  [
+    {
+      "date": "2018-01-04T00:00:00+00:00"
+    },
+    {
+      "code_libell": 57219331
+    },
+    {
+      "libell": "POIRE Doyenne du comice hors Fr. vrac"
+    },
+    {
+      "mini": null
+    },
+    {
+      "maxi": null
+    },
+    {
+      "moyen": 2
+    },
+    {
+      "unit_prix": 2
+    },
+    {
+      "": "le kg"
+    },
+    {
+      "": null
+    },
+    {
+      "": null
+    }
+  ],
+  [
+    {
+      "date": "2018-01-04T00:00:00+00:00"
+    },
+    {
+      "code_libell": 57219332
+    },
+    {
+      "libell": "POIRE Williams verte hors Fr. vrac"
+    },
+    {
+      "mini": null
+    },
+    {
+      "maxi": null
+    },
+    {
+      "moyen": 2
+    },
+    {
+      "unit_prix": 69
+    },
+    {
+      "": "le kg"
+    },
+    {
+      "": null
+    },
+    {
+      "": null
+    }
+  ],
+  [
+    {
+      "date": "2018-01-04T00:00:00+00:00"
+    },
+    {
+      "code_libell": 57219327
+    },
+    {
+      "libell": "POMME Bicolore France sachet 2kg"
+    },
+    {
+      "mini": null
+    },
+    {
+      "maxi": null
+    },
+    {
+      "moyen": 1
+    },
+    {
+      "unit_prix": 26
+    },
+    {
+      "": "le kg"
+    },
+    {
+      "": null
+    },
+    {
+      "": null
+    }
+  ],
+  [
+    {
+      "date": "2018-01-04T00:00:00+00:00"
+    },
+    {
+      "code_libell": 57219328
+    },
+    {
+      "libell": "POMME Braeburn France +170g vrac"
+    },
+    {
+      "mini": null
+    },
+    {
+      "maxi": null
+    },
+    {
+      "moyen": 1
+    },
+    {
+      "unit_prix": 99
+    },
+    {
+      "": "le kg"
+    },
+    {
+      "": null
+    },
+    {
+      "": null
+    }
+  ],
+  [
+    {
+      "date": "2018-01-04T00:00:00+00:00"
+    },
+    {
+      "code_libell": 57219226
+    },
+    {
+      "libell": "POMME Gala France +170g vrac"
+    },
+    {
+      "mini": null
+    },
+    {
+      "maxi": null
+    },
+    {
+      "moyen": 1
+    },
+    {
+      "unit_prix": 79
+    },
+    {
+      "": "le kg"
+    },
+    {
+      "": null
+    },
+    {
+      "": null
+    }
+  ],
+  [
+    {
+      "date": "2018-01-04T00:00:00+00:00"
+    },
+    {
+      "code_libell": 57219227
+    },
+    {
+      "libell": "POMME Golden France +170g vrac"
+    },
+    {
+      "mini": 1
+    },
+    {
+      "maxi": 39
+    },
+    {
+      "moyen": 1
+    },
+    {
+      "unit_prix": 99
+    },
+    {
+      "": 1
+    },
+    {
+      "": 89
+    },
+    {
+      "": "le kg"
+    }
+  ],
+  [
+    {
+      "date": "2018-01-04T00:00:00+00:00"
+    },
+    {
+      "code_libell": 57219372
+    },
+    {
+      "libell": "POMME Golden France biologique"
+    },
+    {
+      "mini": null
+    },
+    {
+      "maxi": null
+    },
+    {
+      "moyen": 3
+    },
+    {
+      "unit_prix": 56
+    },
+    {
+      "": "le kg"
+    },
+    {
+      "": null
+    },
+    {
+      "": null
+    }
+  ],
+  [
+    {
+      "date": "2018-01-04T00:00:00+00:00"
+    },
+    {
+      "code_libell": 57219228
+    },
+    {
+      "libell": "POMME Golden France sachet 2kg"
+    },
+    {
+      "mini": 0
+    },
+    {
+      "maxi": 8
+    },
+    {
+      "moyen": 1
+    },
+    {
+      "unit_prix": 35
+    },
+    {
+      "": 1
+    },
+    {
+      "": 14
+    },
+    {
+      "": "le kg"
+    }
+  ],
+  [
+    {
+      "date": "2018-01-04T00:00:00+00:00"
+    },
+    {
+      "code_libell": 57219229
+    },
+    {
+      "libell": "POMME Granny smith France +170g vrac"
+    },
+    {
+      "mini": null
+    },
+    {
+      "maxi": null
+    },
+    {
+      "moyen": 2
+    },
+    {
+      "unit_prix": 15
+    },
+    {
+      "": "le kg"
+    },
+    {
+      "": null
+    },
+    {
+      "": null
+    }
+  ],
+  [
+    {
+      "date": "2018-01-11T00:00:00+00:00"
+    },
+    {
+      "code_libell": 57219316
+    },
+    {
+      "libell": "ANANAS standard (hors Victoria)"
+    },
+    {
+      "mini": 1
+    },
+    {
+      "maxi": 39
+    },
+    {
+      "moyen": 1
+    },
+    {
+      "unit_prix": 99
+    },
+    {
+      "": 1
+    },
+    {
+      "": 74
+    },
+    {
+      "": "la pièce"
+    }
+  ],
+  [
+    {
+      "date": "2018-01-11T00:00:00+00:00"
+    },
+    {
+      "code_libell": 57219214
+    },
+    {
+      "libell": "BANANE Afrique vrac"
+    },
+    {
+      "mini": null
+    },
+    {
+      "maxi": null
+    },
+    {
+      "moyen": 1
+    },
+    {
+      "unit_prix": 65
+    },
+    {
+      "": "le kg"
+    },
+    {
+      "": null
+    },
+    {
+      "": null
+    }
+  ],
+  [
+    {
+      "date": "2018-01-11T00:00:00+00:00"
+    },
+    {
+      "code_libell": 57219236
+    },
+    {
+      "libell": "BANANE Amérique vrac"
+    },
+    {
+      "mini": null
+    },
+    {
+      "maxi": null
+    },
+    {
+      "moyen": 1
+    },
+    {
+      "unit_prix": 42
+    },
+    {
+      "": "le kg"
+    },
+    {
+      "": null
+    },
+    {
+      "": null
+    }
+  ],
+  [
+    {
+      "date": "2018-01-11T00:00:00+00:00"
+    },
+    {
+      "code_libell": 57219375
+    },
+    {
+      "libell": "BANANE biologique"
+    },
+    {
+      "mini": 1
+    },
+    {
+      "maxi": 99
+    },
+    {
+      "moyen": 1
+    },
+    {
+      "unit_prix": 99
+    },
+    {
+      "": 1
+    },
+    {
+      "": 96
+    },
+    {
+      "": "le kg"
+    }
+  ],
+  [
+    {
+      "date": "2018-01-11T00:00:00+00:00"
+    },
+    {
+      "code_libell": 57219361
+    },
+    {
+      "libell": "CLÉMENTINE hors Fr. vrac"
+    },
+    {
+      "mini": null
+    },
+    {
+      "maxi": null
+    },
+    {
+      "moyen": 1
+    },
+    {
+      "unit_prix": 98
+    },
+    {
+      "": "le kg"
+    },
+    {
+      "": null
+    },
+    {
+      "": null
+    }
+  ],
+  [
+    {
+      "date": "2018-01-11T00:00:00+00:00"
+    },
+    {
+      "code_libell": 57219319
+    },
+    {
+      "libell": "KIWI France cdt 1kg"
+    },
+    {
+      "mini": null
+    },
+    {
+      "maxi": null
+    },
+    {
+      "moyen": 2
+    },
+    {
+      "unit_prix": 75
+    },
+    {
+      "": "le kg"
+    },
+    {
+      "": null
+    },
+    {
+      "": null
+    }
+  ],
+  [
+    {
+      "date": "2018-01-11T00:00:00+00:00"
+    },
+    {
+      "code_libell": 57222318
+    },
+    {
+      "libell": "KIWI France vrac"
+    },
+    {
+      "mini": 0
+    },
+    {
+      "maxi": 25
+    },
+    {
+      "moyen": 0
+    },
+    {
+      "unit_prix": 49
+    },
+    {
+      "": 0
+    },
+    {
+      "": 46
+    },
+    {
+      "": "la pièce"
+    }
+  ],
+  [
+    {
+      "date": "2018-01-11T00:00:00+00:00"
+    },
+    {
+      "code_libell": 57219321
+    },
+    {
+      "libell": "KIWI UE (hors Fr.) cdt 1kg"
+    },
+    {
+      "mini": null
+    },
+    {
+      "maxi": null
+    },
+    {
+      "moyen": 2
+    },
+    {
+      "unit_prix": 57
+    },
+    {
+      "": "le kg"
+    },
+    {
+      "": null
+    },
+    {
+      "": null
+    }
+  ],
+  [
+    {
+      "date": "2018-01-11T00:00:00+00:00"
+    },
+    {
+      "code_libell": 57219322
+    },
+    {
+      "libell": "LITCHI vrac"
+    },
+    {
+      "mini": null
+    },
+    {
+      "maxi": null
+    },
+    {
+      "moyen": 3
+    },
+    {
+      "unit_prix": 48
+    },
+    {
+      "": "le kg"
+    },
+    {
+      "": null
+    },
+    {
+      "": null
+    }
+  ],
+  [
+    {
+      "date": "2018-01-11T00:00:00+00:00"
+    },
+    {
+      "code_libell": 57219323
+    },
+    {
+      "libell": "MANGUE vrac"
+    },
+    {
+      "mini": 0
+    },
+    {
+      "maxi": 59
+    },
+    {
+      "moyen": 1
+    },
+    {
+      "unit_prix": 99
+    },
+    {
+      "": 1
+    },
+    {
+      "": 51
+    },
+    {
+      "": "la pièce"
+    }
+  ],
+  [
+    {
+      "date": "2018-01-11T00:00:00+00:00"
+    },
+    {
+      "code_libell": 57219360
+    },
+    {
+      "libell": "NOIX AOP Grenoble sac 1kg"
+    },
+    {
+      "mini": null
+    },
+    {
+      "maxi": null
+    },
+    {
+      "moyen": 5
+    },
+    {
+      "unit_prix": 89
+    },
+    {
+      "": "le kg"
+    },
+    {
+      "": null
+    },
+    {
+      "": null
+    }
+  ],
+  [
+    {
+      "date": "2018-01-11T00:00:00+00:00"
+    },
+    {
+      "code_libell": 57223741
+    },
+    {
+      "libell": "NOIX AOP Grenoble vrac"
+    },
+    {
+      "mini": null
+    },
+    {
+      "maxi": null
+    },
+    {
+      "moyen": 5
+    },
+    {
+      "unit_prix": 53
+    },
+    {
+      "": "le kg"
+    },
+    {
+      "": null
+    },
+    {
+      "": null
+    }
+  ],
+  [
+    {
+      "date": "2018-01-11T00:00:00+00:00"
+    },
+    {
+      "code_libell": 57223725
+    },
+    {
+      "libell": "NOIX sans label France sachet 500g"
+    },
+    {
+      "mini": null
+    },
+    {
+      "maxi": null
+    },
+    {
+      "moyen": 5
+    },
+    {
+      "unit_prix": 98
+    },
+    {
+      "": "le kg"
+    },
+    {
+      "": null
+    },
+    {
+      "": null
+    }
+  ],
+  [
+    {
+      "date": "2018-01-11T00:00:00+00:00"
+    },
+    {
+      "code_libell": 57221274
+    },
+    {
+      "libell": "NOIX sans label France vrac"
+    },
+    {
+      "mini": null
+    },
+    {
+      "maxi": null
+    },
+    {
+      "moyen": 5
+    },
+    {
+      "unit_prix": 86
+    },
+    {
+      "": "le kg"
+    },
+    {
+      "": null
+    },
+    {
+      "": null
+    }
+  ],
+  [
+    {
+      "date": "2018-01-11T00:00:00+00:00"
+    },
+    {
+      "code_libell": 57219324
+    },
+    {
+      "libell": "ORANGE vrac"
+    },
+    {
+      "mini": 1
+    },
+    {
+      "maxi": 25
+    },
+    {
+      "moyen": 1
+    },
+    {
+      "unit_prix": 99
+    },
+    {
+      "": 1
+    },
+    {
+      "": 66
+    },
+    {
+      "": "le kg"
+    }
+  ],
+  [
+    {
+      "date": "2018-01-11T00:00:00+00:00"
+    },
+    {
+      "code_libell": 57219325
+    },
+    {
+      "libell": "POIRE Abate Fétel hors Fr. vrac"
+    },
+    {
+      "mini": null
+    },
+    {
+      "maxi": null
+    },
+    {
+      "moyen": 2
+    },
+    {
+      "unit_prix": 52
+    },
+    {
+      "": "le kg"
+    },
+    {
+      "": null
+    },
+    {
+      "": null
+    }
+  ],
+  [
+    {
+      "date": "2018-01-11T00:00:00+00:00"
+    },
+    {
+      "code_libell": 57219329
+    },
+    {
+      "libell": "POIRE Conférence hors Fr. vrac"
+    },
+    {
+      "mini": null
+    },
+    {
+      "maxi": null
+    },
+    {
+      "moyen": 1
+    },
+    {
+      "unit_prix": 79
+    },
+    {
+      "": "le kg"
+    },
+    {
+      "": null
+    },
+    {
+      "": null
+    }
+  ],
+  [
+    {
+      "date": "2018-01-11T00:00:00+00:00"
+    },
+    {
+      "code_libell": 57219331
+    },
+    {
+      "libell": "POIRE Doyenne du comice hors Fr. vrac"
+    },
+    {
+      "mini": null
+    },
+    {
+      "maxi": null
+    },
+    {
+      "moyen": 3
+    },
+    {
+      "unit_prix": "le kg"
+    },
+    {
+      "": null
+    },
+    {
+      "": null
+    },
+    {
+      "": null
+    }
+  ],
+  [
+    {
+      "date": "2018-01-11T00:00:00+00:00"
+    },
+    {
+      "code_libell": 57219332
+    },
+    {
+      "libell": "POIRE Williams verte hors Fr. vrac"
+    },
+    {
+      "mini": null
+    },
+    {
+      "maxi": null
+    },
+    {
+      "moyen": 2
+    },
+    {
+      "unit_prix": 87
+    },
+    {
+      "": "le kg"
+    },
+    {
+      "": null
+    },
+    {
+      "": null
+    }
+  ],
+  [
+    {
+      "date": "2018-01-11T00:00:00+00:00"
+    },
+    {
+      "code_libell": 57219327
+    },
+    {
+      "libell": "POMME Bicolore France sachet 2kg"
+    },
+    {
+      "mini": null
+    },
+    {
+      "maxi": null
+    },
+    {
+      "moyen": 1
+    },
+    {
+      "unit_prix": 31
+    },
+    {
+      "": "le kg"
+    },
+    {
+      "": null
+    },
+    {
+      "": null
+    }
+  ],
+  [
+    {
+      "date": "2018-01-11T00:00:00+00:00"
+    },
+    {
+      "code_libell": 57219328
+    },
+    {
+      "libell": "POMME Braeburn France +170g vrac"
+    },
+    {
+      "mini": null
+    },
+    {
+      "maxi": null
+    },
+    {
+      "moyen": 1
+    },
+    {
+      "unit_prix": 99
+    },
+    {
+      "": "le kg"
+    },
+    {
+      "": null
+    },
+    {
+      "": null
+    }
+  ],
+  [
+    {
+      "date": "2018-01-11T00:00:00+00:00"
+    },
+    {
+      "code_libell": 57219226
+    },
+    {
+      "libell": "POMME Gala France +170g vrac"
+    },
+    {
+      "mini": null
+    },
+    {
+      "maxi": null
+    },
+    {
+      "moyen": 2
+    },
+    {
+      "unit_prix": 5
+    },
+    {
+      "": "le kg"
+    },
+    {
+      "": null
+    },
+    {
+      "": null
+    }
+  ],
+  [
+    {
+      "date": "2018-01-11T00:00:00+00:00"
+    },
+    {
+      "code_libell": 57219227
+    },
+    {
+      "libell": "POMME Golden France +170g vrac"
+    },
+    {
+      "mini": 1
+    },
+    {
+      "maxi": 89
+    },
+    {
+      "moyen": 2
+    },
+    {
+      "unit_prix": 39
+    },
+    {
+      "": 2
+    },
+    {
+      "": 3
+    },
+    {
+      "": "le kg"
+    }
+  ]
+]
